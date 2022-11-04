@@ -286,8 +286,8 @@ void LCD_init()
 
 ```
 ## OUTPUT:
-![output](./pic1.png)
-![output](./pic2.png)
+![output](./pic1@.png)
+![output](./pic2@.png)
 ## RESULT:
 Interfacing a keypad 4x4 had been successfully interfaced with LPC2148.
 
